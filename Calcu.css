@@ -1,0 +1,27 @@
+form{
+    border: 1px solid black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+table{
+    margin: auto;
+    border-spacing: 20px 20px;
+}
+
+input{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+input[type="button"]:hover{
+    background-color:rgb(43, 174, 226);
+}
+
+td p{
+    color: rgb(222, 26, 91);
+    font-size: 25px;
+}
